@@ -13,6 +13,7 @@ python3 main.py
 git clone
 cd app
 source env/bin/activate
+crear entorno virtual
 pip3 install -r requirements.txt
 python3 main.py
 ```
